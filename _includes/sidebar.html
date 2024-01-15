@@ -1,0 +1,82 @@
+<!-- sidebar.html -->
+<header class="sidebar-header" role="banner">
+	<a href="{{ site.BASE_PATH }}/">
+		<!-- <img src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" /> -->
+		<img src="https://avatars.githubusercontent.com/u/54712081?s=150" class="img-circle" />
+		
+	</a>
+	<h3 class="title">
+        <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>
+    </h3>
+</header>
+
+
+{% if site.author.bio %}
+<div id="bio" class="text-center">
+	<!-- {{ site.author.bio }} -->
+	<font size="4">Avengers Assemble!!! </font>
+</div>
+{% endif %}
+
+<div id="contact-list" class="text-center">
+	<ul class="list-unstyled list-inline">
+		{% if site.author.github %}
+		<li>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=6VsVHrAAAAAJ" target="_blank"><img src="../images/google_scholar.jpg" weight="30" height="30"></a>
+		</li>
+		{% endif %}
+		{% if site.author.twitter %}
+		<li>
+			<a href="https://github.com/icey-zhang" target="_blank"><img src="../images/github.jpg" weight="30" height="30"></a>
+		</li>
+		{% endif %}
+		{% if site.author.email %}
+		<li>
+			<a href="https://www.researchgate.net/profile/Jiaqing-Zhang-11" target="_blank"><img src="../images/rg.png" weight="30" height="30"></a>
+		</li>
+		{% endif %}
+	</ul>
+	<ul id="contact-list-secondary" class="list-unstyled list-inline">
+		{% if site.author.pinterest %}
+		<li>
+			
+			<a href="../files/cv-JiaqingZhang.pdf" target="_blank"><img src="../images/cv.png" weight="30" height="30"></a>
+		{% endif %}
+		{% if site.author.linkedin %}
+		<li>
+			<a href="../images/wechat-zjq.png" target="_blank"><img src="../images/wechat.png" weight="30" height="30"></a>
+		</li>
+		{% endif %}
+		<li>
+			<a href="../images/dy-zjq.jpg" target="_blank"><img src="../images/dy2.png" weight="30" height="30"></a>
+		</li>
+	</ul>
+</div>
+<!-- sidebar.html end -->
+<!-- <div id="home" class="parallax-container scrollspy">
+
+
+	<div class="container row cover-block">
+  
+	  <div class="profile-content-block col s12 m12 l8">
+		  
+		  <h1></h1>
+		  
+		  <a href="https://scholar.google.com/citations?hl=zh-CN&user=6VsVHrAAAAAJ" target="_blank"><img class="responsive-img social-photo " src="../images/google_scholar.jpg" weight="50" height="50"></a>
+		  
+		  <a href="https://github.com/icey-zhang" target="_blank"><img class="responsive-img social-photo " src="../images/github.jpg" weight="50" height="50"></a>
+  
+		  <a href="./files/YangXue-CV.pdf" target="_blank"><img class="responsive-img social-photo " src="../images/cv.png" weight="50" height="50"></a>
+  
+		  <a href="../images/wechat-zjq.png" target="_blank"><img class="responsive-img social-photo " src="../images/wechat.png" weight="50" height="50"></a>
+
+		  <a href="../images/dy-zjq.jpg" target="_blank"><img class="responsive-img social-photo " src="../images/dy2.png" weight="50" height="50"></a>
+  
+		  <a href="https://www.researchgate.net/profile/Jiaqing-Zhang-11" target="_blank"><img class="responsive-img social-photo " src="../images/rg.png" weight="50" height="50"></a>
+	  
+	  </div>    
+	
+	</div>
+  
+  </div>
+   -->
