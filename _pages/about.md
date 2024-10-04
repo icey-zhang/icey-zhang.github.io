@@ -233,30 +233,21 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 - 2019, Outstanding Graduate Student, Xidian University | 西安电子科技大学优秀研究生
 - 2019, First Class Postgraduate Scholarship, Xidian University | 西安电子科技大学一等学业奖学金
 
-
-
 # 💻Reviewer
 
-
-
-- Pattern Recognition (PR)
+- Annual Conference on Neural Information Processing Systems (NeurIPS)
+- International Conference on Machine Learning (ICML)
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-
+- Pattern Recognition (PR)
+- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
 
 # 💬 Contests
-- ![img](images\TZB.jpg)
--   Won the championship of the second "Tianzhi Cup" Artificial Intelligence Challenge. "Cloud-based intelligence based on satellite remote sensing data" and received a grant of 1 million RMB. Weiying Xie, Jie Lie, **Jiaqing Zhang**, Kai Jiang, Peisen Li.
+-   Won the championship of the second "Tianzhi Cup" Artificial Intelligence Challenge. "Cloud-based intelligence based on satellite remote sensing data" and received a grant of 1 million RMB. Weiying Xie, Jie Lie, **Jiaqing Zhang**, Kai Jiang, Peisen Li. | 获得第二届“天智杯”人工智能挑战赛冠军。“基于卫星遥感数据的云智能别”。获资助100万元。谢卫莹、雷杰、**张佳青**、蒋恺、李沛森。
 
--   获得第二届“天智杯”人工智能挑战赛冠军。“基于卫星遥感数据的云智能别”。获资助100万元。谢卫莹、雷杰、**张佳青**、蒋恺、李沛森。
-
-- ![img](images\ZSB.jpg)
--   Rocky team composed of Xidian University won the second prize of high-performance Architecture Group 1 of the first "Intelligent Computing Cup" "Strong Core Health Soul · Cast base Intelligence" Intelligent Computing Foundation Platform Challenge in 2020.
-
--   西安电子科技大学组成的Rocky队荣获2020年第一届“智算杯”“强芯健魂·铸基智能”智能计算基础平台挑战赛高性能体系结构1组二等奖。
+-   Rocky team composed of Xidian University won the second prize of high-performance Architecture Group 1 of the first "Intelligent Computing Cup" "Strong Core Health Soul · Cast base Intelligence" Intelligent Computing Foundation Platform Challenge in 2020. | 西安电子科技大学组成的Rocky队荣获2020年第一届“智算杯”“强芯健魂·铸基智能”智能计算基础平台挑战赛高性能体系结构1组二等奖。
 
 - Champion of Baidu Paddle Paper Reinvention Challenge, completed the construction of paper Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks at paddle framework.[[Code](https://github.com/icey-zhang/MTCNN_paddle)]
 
