@@ -263,3 +263,5 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 - Champion of Baidu Paddle Paper Reinvention Challenge, completed the construction of paper SinGAN: Learning a Generative Model from a Single Natural Image at paddle framework.[[Code](https://github.com/icey-zhang/paddle_SinGAN)]
 
 - The second award of AIINNOVATION AND APPLICATION COMPETITION (AIAC). [[Slide](./files/AIAC-slide.pdf)][[Code](https://github.com/icey-zhang/ClassSR_paddle)]
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=565i98yiza6&m=7&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80" async="async"></script>
