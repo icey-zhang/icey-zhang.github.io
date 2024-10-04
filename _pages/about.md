@@ -75,6 +75,7 @@ IEEE Transactions on Geoscience and Remote Sensing 61, 1-15
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10075555)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:tWQ1OeGnha4J:scholar.google.com/&output=citation&scisdr=ClGnnm8lEL7V2w4oxXA:AFWwaeYAAAAAZaIu3XDpxJAp25LndBaOwQSjqQo&scisig=AFWwaeYAAAAAZaIu3RUI5hk4hwV8JLqjSJcdNvE&scisf=4&ct=citation&cd=-1&hl=zh-CN)] [[SuperYOLO-Pytorch\]](https://github.com/icey-zhang/SuperYOLO) ![img](https://img.shields.io/github/stars/icey-zhang/SuperYOLO?style=social)
 
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
 
 </div>
 </div>
