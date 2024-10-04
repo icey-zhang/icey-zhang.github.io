@@ -65,12 +65,13 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 
 [[E2E-MFD\]](https://github.com/icey-zhang/E2E-MFD) ![img](https://img.shields.io/github/stars/icey-zhang/E2E-MFD?style=social)
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/superyolo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-</div>
-</div>
+
 
 
 **SuperYOLO: Super resolution assisted object detection in multimodal remote sensing imagery**
