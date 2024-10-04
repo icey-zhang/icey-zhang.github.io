@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-#  👋 About Me
+<span class='anchor' id='about-me'></span>
+
+# 👋 About Me
 
 I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/).
 
@@ -20,6 +22,7 @@ I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/
 
 
 # 🔥 News
+
 - **[2024.09]** One paper is accepted by **NeurlPS oral** ([E2E-MFD](https://arxiv.org/abs/2403.09323))!
 - **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!
 - **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!
@@ -224,7 +227,7 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 - 2019, Outstanding Graduate Student, Xidian University | 西安电子科技大学优秀研究生
 - 2019, First Class Postgraduate Scholarship, Xidian University | 西安电子科技大学一等学业奖学金
 
-# 💻Reviewer
+# 💻 Reviewer
 
 - Annual Conference on Neural Information Processing Systems (NeurIPS)
 - International Conference on Machine Learning (ICML)
