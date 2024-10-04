@@ -58,7 +58,6 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 <div class='paper-box-text' markdown="1">
 
 
-
 **E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection**
 **Jiaqing Zhang**, Mingxiang Cao, Xue Yang, Weiying Xie, Jie Lei, Daixun Li, Geng Yang, Wenbo Huang, Yunsong Li
 
@@ -70,8 +69,6 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/superyolo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
 
 
 **SuperYOLO: Super resolution assisted object detection in multimodal remote sensing imagery**
