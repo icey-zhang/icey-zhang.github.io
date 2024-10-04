@@ -140,7 +140,7 @@ Jiayuan Tian, Jie Lei, **Jiaqing Zhang**, Weiying Xie, Yunsong Li
 
 ## Cloud Segmentation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/superyolo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/Dis.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image**
