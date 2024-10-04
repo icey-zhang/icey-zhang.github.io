@@ -249,4 +249,4 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 
 - The second award of AIINNOVATION AND APPLICATION COMPETITION (AIAC). [[Slide](./files/AIAC-slide.pdf)][[Code](https://github.com/icey-zhang/ClassSR_paddle)]
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=565i98yiza6&m=7&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54ythaxgje5&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
