@@ -41,7 +41,7 @@ I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/
 - **[2023.7]** One paper is accepted by **FPGA Poster** !
 - **[2023.3]** One paper is accepted by **TGRS** ([SuperYOLO](https://ieeexplore.ieee.org/abstract/document/10075555))!
 - **[2023.3]** One paper is accepted by **TGRS** ([SSAD](https://ieeexplore.ieee.org/abstract/document/10081072))!
-- **[2021.5]** One paper is accepted by **NN** ([link](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002252))!
+- **[2021.5]** One paper is accepted by **NN** ([SSL](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002252))!
 - **[2021.5]** Win the first prize of the second "Tianzhi Cup" Artificial Intelligence Challenge!
 - **[2020.12]** Win the second prize of high-performance Architecture Group 1 of the first "Intelligent Computing Cup" Challenge!
 
@@ -49,10 +49,8 @@ I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/
 
 # 📖 Educations
 
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
+- *2019.09 - Now*, Ph.D. at [Xidian University](https://www.xidian.edu.cn/), supervised by Prof. [Yunsong Li](https://www.xidian.edu.cn/info/1020/32072.htm). 
+- *2015.09 - 2019.06*, at [College of Electrical Engineering and Computer Sciences](https://eecs.nbu.edu.cn/), [Ningbo University](https://www.nbu.edu.cn/).
 
 # 📝 Publications 
 
@@ -94,7 +92,7 @@ Mingxiang Cao, Jie Lei, Weiying Xie, **Jiaqing Zhang**, Daixun Li, Yunsong Li
 
 ## Model Compression
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/GHOST.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/ghost.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -128,7 +126,7 @@ ACM Transactions on Reconfigurable Technology and Systems
 
 ## Contrastive Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/swin.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/swim.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**
@@ -182,7 +180,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence. 2024.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2023</div><img src='images/iabc.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2023</div><img src='images/IABC.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Invariant Attribute-Driven Binary Bi-Branch Classification of Hyperspectral and LiDAR Images**
