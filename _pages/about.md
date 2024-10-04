@@ -75,10 +75,11 @@ IEEE Transactions on Geoscience and Remote Sensing 61, 1-15
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10075555)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:tWQ1OeGnha4J:scholar.google.com/&output=citation&scisdr=ClGnnm8lEL7V2w4oxXA:AFWwaeYAAAAAZaIu3XDpxJAp25LndBaOwQSjqQo&scisig=AFWwaeYAAAAAZaIu3RUI5hk4hwV8JLqjSJcdNvE&scisf=4&ct=citation&cd=-1&hl=zh-CN)] [[SuperYOLO-Pytorch\]](https://github.com/icey-zhang/SuperYOLO) ![img](https://img.shields.io/github/stars/icey-zhang/SuperYOLO?style=social)
 
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/SAR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2023</div><img src='images/SAR.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SAR-Net: Multi-scale Direction-aware SAR Network via Global Information Fusion**
@@ -108,7 +109,7 @@ IEEE Transactions on Geoscience and Remote Sensing 61, 1-15
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/hybnn.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRETS 2023</div><img src='images/hybnn.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -126,7 +127,7 @@ ACM Transactions on Reconfigurable Technology and Systems
 
 ## Contrastive Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/swin.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/swin.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**
@@ -154,7 +155,7 @@ Jiayuan Tian, Jie Lei, **Jiaqing Zhang**, Weiying Xie, Yunsong Li
 
 ## Multi-modal Remote Sensing
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/mivit.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/mivit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multimodal Informative ViT: Information Aggregation and Distribution for Hyperspectral and LiDAR Classification**
@@ -166,7 +167,7 @@ Jiayuan Tian, Jie Lei, **Jiaqing Zhang**, Weiying Xie, Yunsong Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/MDFL.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/MDFL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MDFL: Multi-domain Diffusion-driven Feature Learning**
@@ -180,7 +181,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence. 2024.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/iabc.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2023</div><img src='images/iabc.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Invariant Attribute-Driven Binary Bi-Branch Classification of Hyperspectral and LiDAR Images**
@@ -210,7 +211,7 @@ IEEE Transactions on Geoscience and Remote Sensing 61, 1-14
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/SSL.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2021</div><img src='images/SSL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Self-spectral learning with GAN based spectral-spatial target detection for hyperspectral image**
 
