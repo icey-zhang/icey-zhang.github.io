@@ -258,12 +258,8 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 
 -   西安电子科技大学组成的Rocky队荣获2020年第一届“智算杯”“强芯健魂·铸基智能”智能计算基础平台挑战赛高性能体系结构1组二等奖。
 
-- ------
-
 - Champion of Baidu Paddle Paper Reinvention Challenge, completed the construction of paper Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks at paddle framework.[[Code](https://github.com/icey-zhang/MTCNN_paddle)]
-- ------
 
 - Champion of Baidu Paddle Paper Reinvention Challenge, completed the construction of paper SinGAN: Learning a Generative Model from a Single Natural Image at paddle framework.[[Code](https://github.com/icey-zhang/paddle_SinGAN)]
-- ------
 
 - The second award of AIINNOVATION AND APPLICATION COMPETITION (AIAC). [[Slide](./files/AIAC-slide.pdf)][[Code](https://github.com/icey-zhang/ClassSR_paddle)]
