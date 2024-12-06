@@ -22,7 +22,7 @@ I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/
 
 
 # 🔥 News
-
+- **[2024.10]** Win National Scholarship for PhD Student! 博士国家奖学金
 - **[2024.09]** One paper is accepted by **NeurlPS oral** ([E2E-MFD](https://arxiv.org/abs/2403.09323))!
 - **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!
 - **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!
@@ -80,7 +80,7 @@ IEEE Transactions on Geoscience and Remote Sensing 61, 1-15
 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10075555)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:tWQ1OeGnha4J:scholar.google.com/&output=citation&scisdr=ClGnnm8lEL7V2w4oxXA:AFWwaeYAAAAAZaIu3XDpxJAp25LndBaOwQSjqQo&scisig=AFWwaeYAAAAAZaIu3RUI5hk4hwV8JLqjSJcdNvE&scisf=4&ct=citation&cd=-1&hl=zh-CN)] [[SuperYOLO-Pytorch\]](https://github.com/icey-zhang/SuperYOLO) ![img](https://img.shields.io/github/stars/icey-zhang/SuperYOLO?style=social)
 
-🏆️ <b><font color="red">ESI Highly Cited Paper</font></b>
+🏆️ <b><font color="red">ESI Highly Cited Paper</font></b> 🏆️ <b><font color="red">ESI Hot Papers</font></b>
 
 </div>
 </div>
@@ -231,6 +231,7 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 </div>
 
 # 🎖 Honors and Awards
+- 2024, National Scholarship for Postgraduate Student, Ministry of Education \| 研究生国家奖学金
 - 2023, National Scholarship for Postgraduate Student, Ministry of Education \| 研究生国家奖学金
 - 2023, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
 - 2022, Second Class Postgraduate Scholarship, Xidian University \| 西安电子科技大学二等学业奖学金
