@@ -22,8 +22,10 @@ I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/
 
 
 # 🔥 News
+- **[2024.12]** One paper is accepted by **AAAI 2025** ([DiffCLIP](https://github.com/icey-zhang/DiffCLIP))!
+- **[2024.12]** One paper is accepted by **TCSVT** ([SeaDATE](https://arxiv.org/abs/2410.11358))!
 - **[2024.10]** Win National Scholarship for PhD Student! 博士国家奖学金
-- **[2024.09]** One paper is accepted by **NeurlPS oral** ([E2E-MFD](https://arxiv.org/abs/2403.09323))!
+- **[2024.09]** One paper is accepted by **NeurlPS 2024 oral** ([E2E-MFD](https://arxiv.org/abs/2403.09323))!
 - **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!
 - **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!
 - **[2024.03]** One paper is accepted by **TGRS** ([SwiMDiff](https://arxiv.org/abs/2401.05093))!
@@ -161,6 +163,7 @@ Jiayuan Tian, Jie Lei, **Jiaqing Zhang**, Weiying Xie, Yunsong Li
 
 ## Multi-modal Remote Sensing
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/mivit.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -197,6 +200,18 @@ Proceedings of the AAAI Conference on Artificial Intelligence. 2024.
 Remote Sensing 15 (17), 4255
 
 [[Paper](https://www.mdpi.com/2072-4292/15/17/4255)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:He5Fk4QsNBUJ:scholar.google.com/&output=citation&scisdr=ClGnnm8lEL7V2w40zHg:AFWwaeYAAAAAZaIy1HjWdCwprK9Z7631yz1IPvU&scisig=AFWwaeYAAAAAZaIy1K2XAK2hyjieMBn_IMZNtxw&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/SeaDATE.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection**
+
+Shuhan Dong, Weiying Xie, Danian Yang, Yunsong Li, **Jiaqing Zhang**, Jiayuan Tian, JieLei
+
+**[**[Paper](https://arxiv.org/abs/2410.11358)**] [**[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:FGH-j2XbUtwJ:scholar.google.com/&output=citation&scisdr=ClHnESqiEKv1jO6sB4c:AFWwaeYAAAAAZ1eqH4eUFHt74to_PpqB4g15XlQ&scisig=AFWwaeYAAAAAZ1eqH39cX-QPJ0fZlE6bjdYWPYI&scisf=4&ct=citation&cd=-1&hl=zh-CN)**]**
 
 </div>
 </div>
