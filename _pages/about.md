@@ -65,7 +65,20 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 **Jiaqing Zhang**, Mingxiang Cao, Xue Yang, Weiying Xie, Jie Lei, Daixun Li, Geng Yang, Wenbo Huang, Yunsong Li
 
 
-[[E2E-MFD\]](https://github.com/icey-zhang/E2E-MFD) ![img](https://img.shields.io/github/stars/icey-zhang/E2E-MFD?style=social)
+[[Paper](https://arxiv.org/abs/2403.09323)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:mDcqD25F8bQJ:scholar.google.com/&output=citation&scisdr=ClHnESqiEKv1jO6t-Tw:AFWwaeYAAAAAZ1er4Tz7Jx5yrW5qpceO4iT-2m8&scisig=AFWwaeYAAAAAZ1er4aFglCAu5Gubg1WtyWROKqA&scisf=4&ct=citation&cd=-1&hl=zh-CN)][[E2E-MFD\]](https://github.com/icey-zhang/E2E-MFD) ![img](https://img.shields.io/github/stars/icey-zhang/E2E-MFD?style=social)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/DiffCLIP.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**DiffCLIP: Few-shot Language-driven Multimodal Classifier **
+**Jiaqing Zhang**, Mingxiang Cao, Xue Yang, Kai Jiang, Yunsong Li
+
+
+[[DiffCLIP\]](https://github.com/icey-zhang/DiffCLIP) ![img](https://img.shields.io/github/stars/icey-zhang/DiffCLIP?style=social)
 
 </div>
 </div>
