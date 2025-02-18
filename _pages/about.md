@@ -22,6 +22,7 @@ I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/
 
 
 # 🔥 News
+- **[2024.12]** I have graduated with a PhD degree! 我博士毕业啦~~
 - **[2024.12]** One paper is accepted by **AAAI 2025** ([DiffCLIP](https://github.com/icey-zhang/DiffCLIP))!
 - **[2024.12]** One paper is accepted by **TCSVT** ([SeaDATE](https://arxiv.org/abs/2410.11358))!
 - **[2024.10]** Win National Scholarship for PhD Student! 博士国家奖学金
