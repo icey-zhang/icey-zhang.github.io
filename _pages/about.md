@@ -46,7 +46,7 @@ I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/
 
 # 📖 Educations
 
-- *2019.09 - Now*, Ph.D. at [Xidian University](https://www.xidian.edu.cn/), supervised by Prof. [Yunsong Li](https://www.xidian.edu.cn/info/1020/32072.htm). 
+- *2019.09 - 2024.12*, Ph.D. at [Xidian University](https://www.xidian.edu.cn/), supervised by Prof. [Yunsong Li](https://www.xidian.edu.cn/info/1020/32072.htm). 
 - *2015.09 - 2019.06*, at [College of Electrical Engineering and Computer Sciences](https://eecs.nbu.edu.cn/), [Ningbo University](https://www.nbu.edu.cn/).
 
 # 📝 Publications 
