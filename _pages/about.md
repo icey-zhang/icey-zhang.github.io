@@ -74,7 +74,7 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 <div class='paper-box-text' markdown="1">
 
 
-**DiffCLIP: Few-shot Language-driven Multimodal Classifier **
+**DiffCLIP: Few-shot Language-driven Multimodal Classifier**
 **Jiaqing Zhang**, Mingxiang Cao, Xue Yang, Kai Jiang, Yunsong Li
 
 
