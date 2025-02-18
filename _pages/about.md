@@ -12,7 +12,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a last-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/).
+I have graduated with a **PhD degree** at [Xidian University](https://www.xidian.edu.cn/).
 
 # 🔍Research Topics
 
