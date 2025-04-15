@@ -295,7 +295,7 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54ythaxgje5&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 # My life
-my lovely boyfriend
+my lovely boyfriend [Shuguang](https://shuguang-52.github.io)
 ![image](https://github.com/user-attachments/assets/87434827-53df-432b-bd47-227e8e3905d4)
 
 
