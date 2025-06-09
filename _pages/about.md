@@ -78,7 +78,7 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 **DiffCLIP: Few-shot Language-driven Multimodal Classifier**
 **Jiaqing Zhang**, Mingxiang Cao, Xue Yang, Kai Jiang, Yunsong Li
 
-
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34401)] 
 [[DiffCLIP\]](https://github.com/icey-zhang/DiffCLIP) ![img](https://img.shields.io/github/stars/icey-zhang/DiffCLIP?style=social)
 
 </div>
