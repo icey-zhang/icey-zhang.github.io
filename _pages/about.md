@@ -63,7 +63,7 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 
 
 **E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection**
-**Jiaqing Zhang**, Mingxiang Cao, Xue Yang, Weiying Xie, Jie Lei, Daixun Li, Geng Yang, Wenbo Huang, Yunsong Li
+**Jiaqing Zhang**, Mingxiang Cao, Weiying Xie, Jie Lei, Daixun Li, Wenbo Huang, Yunsong Li, Xue Yang
 
 
 [[Paper](https://arxiv.org/abs/2403.09323)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:mDcqD25F8bQJ:scholar.google.com/&output=citation&scisdr=ClHnESqiEKv1jO6t-Tw:AFWwaeYAAAAAZ1er4Tz7Jx5yrW5qpceO4iT-2m8&scisig=AFWwaeYAAAAAZ1er4aFglCAu5Gubg1WtyWROKqA&scisf=4&ct=citation&cd=-1&hl=zh-CN)][[E2E-MFD\]](https://github.com/icey-zhang/E2E-MFD) ![img](https://img.shields.io/github/stars/icey-zhang/E2E-MFD?style=social)
