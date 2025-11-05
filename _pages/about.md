@@ -15,8 +15,11 @@ I am a Researcher at Huawei 2012. I obtained my Ph.D. degree from the [Xidian Un
 
 
 🔍 **GUI Automation and Interaction Agents**
+
 🔍 **Vision-Language-Action Models for GUI Control**
+
 🔍 **Reinforcement Learning and Imitation Learning for GUI Agents**
+
 
 We are hiring research scientists, engineers, and research interns for our lab! Please drop me a line if you are interested.
 
