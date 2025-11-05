@@ -31,6 +31,7 @@ I have graduated with a **PhD degree** at [Xidian University](https://www.xidian
 
 <details>
 <summary>▶️ 点击展开查看全部</summary>
+<br>
 
 - **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!  
 - **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!  
@@ -49,6 +50,7 @@ I have graduated with a **PhD degree** at [Xidian University](https://www.xidian
 - **[2020.12]** Win the second prize of high-performance Architecture Group 1 of the first "Intelligent Computing Cup" Challenge!  
 
 </details>
+
 
 
 
