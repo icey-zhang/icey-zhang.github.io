@@ -21,27 +21,35 @@ I have graduated with a **PhD degree** at [Xidian University](https://www.xidian
 - **Deep Learning**: Vison-Language Models, Foundation Models, etc.
 
 
-# 🔥 News
-- **[2024.12]** 🔥I have graduated with a **PhD degree**! 我**博士毕业**啦~~
-- **[2024.12]** One paper is accepted by **AAAI 2025** ([DiffCLIP](https://github.com/icey-zhang/DiffCLIP))!
-- **[2024.12]** One paper is accepted by **TCSVT** ([SeaDATE](https://arxiv.org/abs/2410.11358))!
-- **[2024.10]** Win National Scholarship for PhD Student! 博士国家奖学金
-- **[2024.09]** One paper is accepted by **NeurlPS 2024 oral** ([E2E-MFD](https://arxiv.org/abs/2403.09323))!
-- **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!
-- **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!
-- **[2024.03]** One paper is accepted by **TGRS** ([SwiMDiff](https://arxiv.org/abs/2401.05093))!
-- **[2023.12]** One paper is accepted by **AAAI** ([MDFL](https://arxiv.org/abs/2311.09520))!
-- **[2023.10]** One paper is accepted by **ACM** ([HyBNN](https://dl.acm.org/doi/abs/10.1145/3631610))!
-- **[2023.12]** Win National Scholarship for PhD Student! 博士国家奖学金
-- **[2023.08]** One paper is accepted by **RS** ([IABC](https://www.mdpi.com/2072-4292/15/17/4255))!
-- **[2023.07]** One paper is accepted by **TGRS** ([GHOST](https://ieeexplore.ieee.org/abstract/document/10175627))!
-- **[2023.07]** One paper is accepted by **FPGA Poster** !
-- **[2023.03]** One paper is accepted by **TGRS** ([SuperYOLO](https://ieeexplore.ieee.org/abstract/document/10075555))!
-- **[2023.03]** One paper is accepted by **TGRS** ([SSAD](https://ieeexplore.ieee.org/abstract/document/10081072))!
-- **[2021.10]** Win National Scholarship for Master Student! 硕士国家奖学金
-- **[2021.05]** One paper is accepted by **NN** ([SSL](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002252))!
-- **[2021.05]** Win the first prize of the second "Tianzhi Cup" Artificial Intelligence Challenge!
-- **[2020.12]** Win the second prize of high-performance Architecture Group 1 of the first "Intelligent Computing Cup" Challenge!
+## 🔥 News
+
+- **[2024.12]** 🔥I have graduated with a **PhD degree**! 我**博士毕业**啦~~  
+- **[2024.12]** One paper is accepted by **AAAI 2025** ([DiffCLIP](https://github.com/icey-zhang/DiffCLIP))!  
+- **[2024.12]** One paper is accepted by **TCSVT** ([SeaDATE](https://arxiv.org/abs/2410.11358))!  
+- **[2024.10]** Win National Scholarship for PhD Student! 博士国家奖学金  
+- **[2024.09]** One paper is accepted by **NeurIPS 2024 oral** ([E2E-MFD](https://arxiv.org/abs/2403.09323))!  
+
+<details>
+<summary>▶️ 点击展开查看全部</summary>
+
+- **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!  
+- **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!  
+- **[2024.03]** One paper is accepted by **TGRS** ([SwiMDiff](https://arxiv.org/abs/2401.05093))!  
+- **[2023.12]** One paper is accepted by **AAAI** ([MDFL](https://arxiv.org/abs/2311.09520))!  
+- **[2023.10]** One paper is accepted by **ACM** ([HyBNN](https://dl.acm.org/doi/abs/10.1145/3631610))!  
+- **[2023.12]** Win National Scholarship for PhD Student! 博士国家奖学金  
+- **[2023.08]** One paper is accepted by **RS** ([IABC](https://www.mdpi.com/2072-4292/15/17/4255))!  
+- **[2023.07]** One paper is accepted by **TGRS** ([GHOST](https://ieeexplore.ieee.org/abstract/document/10175627))!  
+- **[2023.07]** One paper is accepted by **FPGA Poster**!  
+- **[2023.03]** One paper is accepted by **TGRS** ([SuperYOLO](https://ieeexplore.ieee.org/abstract/document/10075555))!  
+- **[2023.03]** One paper is accepted by **TGRS** ([SSAD](https://ieeexplore.ieee.org/abstract/document/10081072))!  
+- **[2021.10]** Win National Scholarship for Master Student! 硕士国家奖学金  
+- **[2021.05]** One paper is accepted by **NN** ([SSL](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002252))!  
+- **[2021.05]** Win the first prize of the second "Tianzhi Cup" Artificial Intelligence Challenge!  
+- **[2020.12]** Win the second prize of high-performance Architecture Group 1 of the first "Intelligent Computing Cup" Challenge!  
+
+</details>
+
 
 
 
