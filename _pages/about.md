@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am a Researcher at Huawei 2012. I obtained my Ph.D. degree from the [Xidian University](https://www.xidian.edu.cn/) supervied by [Yunsong Li](https://scholar.google.com/citations?user=aY_2RzkAAAAJ&hl=zh-CN&oi=ao) and [Jie Lei](https://scholar.google.com/citations?user=GinaT0wAAAAJ&hl=zh-CN). During my PhD studies, I collaborated with researchers [Xue Yang](https://scholar.google.com/citations?user=2xTlvV0AAAAJ&hl=zh-CN). I am currently passionate about research in the following areas:
+I am a Researcher at Huawei 2012 Lab. I obtained my Ph.D. degree from [Xidian University](https://www.xidian.edu.cn/) supervised by [Yunsong Li](https://scholar.google.com/citations?user=aY_2RzkAAAAJ&hl=zh-CN&oi=ao) and [Jie Lei](https://scholar.google.com/citations?user=GinaT0wAAAAJ&hl=zh-CN). During my PhD studies, I collaborated with researcher [Xue Yang](https://scholar.google.com/citations?user=2xTlvV0AAAAJ&hl=zh-CN). I am currently passionate about research in the following areas:
 
 
 🔍 **GUI Automation and Interaction Agents**
@@ -22,7 +22,6 @@ I am a Researcher at Huawei 2012. I obtained my Ph.D. degree from the [Xidian Un
 
 
 We are hiring research scientists, engineers, and research interns for our lab! Please drop me a line if you are interested.
-
 
 
 ## 🔥 News
