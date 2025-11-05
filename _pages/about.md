@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am a Researcher at Huawei 2012. I obtained my Ph.D. degree from the [Xidian University](https://www.xidian.edu.cn/) supervied by [Yunsong Li](https://scholar.google.com/citations?user=aY_2RzkAAAAJ&hl=zh-CN&oi=ao). During my PhD studies, I collaborated with researchers [Xue Yang](https://scholar.google.com/citations?user=2xTlvV0AAAAJ&hl=zh-CN). I am currently passionate about research in the following areas:
+I am a Researcher at Huawei 2012. I obtained my Ph.D. degree from the [Xidian University](https://www.xidian.edu.cn/) supervied by [Yunsong Li](https://scholar.google.com/citations?user=aY_2RzkAAAAJ&hl=zh-CN&oi=ao) and [Jie Lei](https://scholar.google.com/citations?user=GinaT0wAAAAJ&hl=zh-CN). During my PhD studies, I collaborated with researchers [Xue Yang](https://scholar.google.com/citations?user=2xTlvV0AAAAJ&hl=zh-CN). I am currently passionate about research in the following areas:
 
 
 🔍 **GUI Automation and Interaction Agents**
@@ -310,7 +310,19 @@ Neural Networks, Volume 142, October 2021, Pages 375-387
 
 # My life
 my lovely boyfriend [Shuguang](https://shuguang-52.github.io)
+
 <img src="https://github.com/user-attachments/assets/87434827-53df-432b-bd47-227e8e3905d4" width="300">
+
+my lovely friends [girls]
+
+[**Xin Zhang**](https://scholar.google.com/citations?user=rJMMViQAAAAJ&hl=zh-CN)
+[**Geng Yang**](https://scholar.google.com/citations?user=vJDuS2IAAAAJ&hl=zh-CN)
+[**Ailing Xu**]()
+[**Yidan Liu**](https://scholar.google.com/citations?user=0aWRa7UAAAAJ&hl=zh-CN)
+[**Shuhan Dong**]()
+[**Jiayuan Tian**]()
+[**Hui Jiang**]()
+[**Tao Jiang**](https://scholar.google.com/citations?user=kTf24-EAAAAJ&hl=zh-CN&oi=ao)
 
 
 
