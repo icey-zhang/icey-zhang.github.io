@@ -33,9 +33,8 @@ We are hiring research scientists, engineers, and research interns for our lab! 
 - **[2024.10]** Win National Scholarship for PhD Student! 博士国家奖学金  
 - **[2024.09]** One paper is accepted by **NeurIPS 2024 oral** ([E2E-MFD](https://arxiv.org/abs/2403.09323))!  
 
-<details>
+<details markdown="1">
 <summary>▶️ 点击展开查看全部</summary>
-<br>
 
 - **[2024.08]** One paper is accepted by **TGRS** ([DIAnet](https://arxiv.org/abs/2401.03182))!  
 - **[2024.03]** One paper is accepted by **TCSVT** ([MIViT](https://arxiv.org/abs/2401.03179))!  
